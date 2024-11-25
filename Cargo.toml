@@ -2,5 +2,7 @@
 name = "dmls"
 version = "0.0.0"
 edition = "2021"
+description = "dMLS"
+license = "AGPL-3.0"
 
 [dependencies]
